@@ -1,16 +1,14 @@
-### Hi there 👋
+@settings {
+## Hello everyone! This is Sai Sathvik from Hyderabad. 
+  font-size: 100;
+}
 
-<!--
-**sathviksai002/sathviksai002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently majoring in Computer Science and Engineering from KL University, Hyderabad. I am a tech enthusiast who strongly believes that upliftment in techonology can make people's lives better and better and can solve the problems of the target audience am working for. 
 
-Here are some ideas to get you started:
+My interests are Artifical Intelligence, Data science in visualisation and analysis, Database Management systems, Operating systems, logical building for competitive coding and many more. I'll keep you updated through GIT and will allow everyone to have a flexibility to watch my progress from initial projects to the advanced projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me Around the Web 🌎:
+
+-Instagram: <a href= "https://www.instagram.com/saathviksai_/">SathvikInsta</a>  
+-LinkedIn:  <a href= "https://www.linkedin.com/in/tvenkatasaisathvik/">LinkedIN</a>
+
