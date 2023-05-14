@@ -1,4 +1,4 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk1KTnF0UGJhZWo2eHZ3aG0tdDZNQjNnWGRhUXxBQ3Jtc0trNVJQMER1NVZKcFBkYjF5Y1lzM083ZG9xa05zN2czM2JGRkxNa3NPeWZrVjFnOUpFUk92dFU2WmRUYVJUQ3RTYnlKTWVIT1ZNUVFoWXZwaEV4MWtSNUpVR0x4NU80SElXdE5BbkVZc0l6UEdlNmhZQQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Sai Sathvik</h1>
 <h3 align="center">Computer Science Student who is passionate in Programming and Developing Software.</h3>
