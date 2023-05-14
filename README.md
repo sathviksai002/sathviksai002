@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sai Sathvik</h1>
 <h3 align="center">Computer Science Student who is passionate in Programming and Developing Software.</h3>
-<img align="right" alt="Coding" width="400" src="[https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg]https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnh5RTVRZGVCczJsVDhuc0tIMTJLNVA2X0QyZ3xBQ3Jtc0tsb2ZhMVpoS3VKdWNZSlkxeUFNSG1CNUExNTY5S0xJR1loQS16bzMwRnhUaV9HYXJ1b1NOcF9rZnFvaUFfcHdrcG00bWQzaDl6OWNpQWZ1SFFxMmtpb3JxM3ZtNWQ4OEhUQS1ZemFNbWV0Yld5LXpyMA&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathviksai002&label=Profile%20views&color=0e75b6&style=flat" alt="sathviksai002" /> </p>
 
