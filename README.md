@@ -1,12 +1,49 @@
-## Hello everyone! This is Sai Sathvik from Hyderabad. 
+[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk1KTnF0UGJhZWo2eHZ3aG0tdDZNQjNnWGRhUXxBQ3Jtc0trNVJQMER1NVZKcFBkYjF5Y1lzM083ZG9xa05zN2czM2JGRkxNa3NPeWZrVjFnOUpFUk92dFU2WmRUYVJUQ3RTYnlKTWVIT1ZNUVFoWXZwaEV4MWtSNUpVR0x4NU80SElXdE5BbkVZc0l6UEdlNmhZQQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://rishavchanda.io)
 
-I am currently majoring in Computer Science and Engineering from KL University, Hyderabad. I am a tech enthusiast who strongly believes that upliftment in techonology can make people's lives better and better and can solve the problems of the target audience am working for. 
+<h1 align="center">Hi 👋, I'm Sai Sathvik</h1>
+<h3 align="center">Computer Science Student who is passionate in Programming and Developing Software.</h3>
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
-My interests are Artifical Intelligence, Data science in visualisation and analysis, Database Management systems, Operating systems, logical building for competitive coding and many more. I'll keep you updated through GIT and will allow everyone to have a flexibility to watch my progress from initial projects to the advanced projects. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathviksai002&label=Profile%20views&color=0e75b6&style=flat" alt="sathviksai002" /> </p>
 
-## Find me Around the Web 🌎:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathviksai002" alt="sathviksai002" /></a> </p>
 
--Instagram: <a href= "https://www.instagram.com/saathviksai_/">SathvikInsta</a>  📸 📸 
--LinkedIn:  <a href= "https://www.linkedin.com/in/tvenkatasaisathvik/">LinkedIN</a>  📚📚
--Telegram:  <a href= "https://t.me/Sathvik_saai">SathvikTele</a>    💬💬
+- 🔭 I’m currently working on [Neetcode Clone Website](https://lnkd.in/g6SP_d5A)
 
+- 🌱 I’m currently learning **React, Dynamic programming, Back tracking and Graphs using C++ and many advanced programming questions that are applicable in real life.**
+
+- 👯 I’m looking to collaborate on **Zuccedd- An Ecommerce Website**
+
+- 🤝 I’m more passionate also in [Data Science and Analysis](https://github.com/sathviksai002/Youtube_Video_Trending_Analysis)
+
+- 👨‍💻 All of my projects are available at [https://github.com/sathviksai002?tab=repositories](https://github.com/sathviksai002?tab=repositories)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/tvenkatasaisathvik/](https://www.linkedin.com/in/tvenkatasaisathvik/)
+
+- 💬 Ask me about **Data structures, Data science, Artifical intelligence, HTML, CSS, MYSQL, React and Python.**
+
+- 📫 How to reach me **sathviksai002@gmail.com**
+
+- 📄 Know about my experiences [https://saisathviktammi.github.io/](https://saisathviktammi.github.io/)
+
+- ⚡ Hobbies **Bodybuilder, Cricket and Bowling**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tvenkatasaisathvik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tvenkatasaisathvik/" height="30" width="40" /></a>
+<a href="https://kaggle.com/saisathvik1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saisathvik1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/h2010030361" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="h2010030361" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/h2010030361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h2010030361" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/h2010030361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="h2010030361" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/h2010030361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="h2010030361/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@2010030361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@2010030361" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sathviksai002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sathviksai002" height="30" width="40" /></a>
+<a href="https://discord.gg/polopi#2759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="polopi#2759" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathviksai002&show_icons=true&locale=en&layout=compact" alt="sathviksai002" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathviksai002&show_icons=true&locale=en" alt="sathviksai002" /></p>
