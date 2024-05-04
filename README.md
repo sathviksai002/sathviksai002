@@ -1,16 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Sai Sathvik</h1>
-<h3 align="center">Computer Science Student who is passionate in Programming and Developing Software.</h3>
+<h3 align="center">Computer Science Graduate who is passionate in Programming and Developing Software.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathviksai002&label=Profile%20views&color=0e75b6&style=flat" alt="sathviksai002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathviksai002" alt="sathviksai002" /></a> </p>
 
-- 🔭 I’m currently working on [Neetcode Clone Website](https://lnkd.in/g6SP_d5A)
+- 🔭 I’m currently working on [The Basin - Empowering Indian Farmers(website)](https://github.com/sathviksai002/The-Basin-Empowering-Indian-Farmers)
 
-- 🌱 I’m currently learning **React, Dynamic programming, Back tracking and Graphs using C++ and many advanced programming questions that are applicable in real life.**
+- 🌱 I’m currently learning **React(MEAN Stack), Dynamic programming, Back tracking and Graphs using C++ and many advanced programming questions that are applicable in real life.**
 
 - 👯 I’m looking to collaborate on **Zuccedd- An Ecommerce Website**
 
@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/tvenkatasaisathvik/](https://www.linkedin.com/in/tvenkatasaisathvik/)
 
-- 💬 Ask me about **Data structures, Data science, Artifical intelligence, HTML, CSS, MYSQL, React and Python.**
+- 💬 Ask me about **Data structures, Data science, HTML, CSS, MYSQL, React and C++.**
 
 - 📫 How to reach me **sathviksai002@gmail.com**
 
